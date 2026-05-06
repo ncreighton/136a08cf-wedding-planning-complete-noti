@@ -1,2 +1,30 @@
-# 136a08cf-wedding-planning-complete-noti
-All-in-one Notion workspace for couples planning their wedding from engagement to honeymoon. Features a wedding day timeline builder, guest list manager with RSVP tracking and dietary preferences, vendor database with contract status and payment schedule, budget tracker with category rollups, seating chart planning database, wedding website content
+# Wedding Planning Complete Notion Template
+
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/aFa4gzeTt8Is2hi47qcZa3b)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/aFa4gzeTt8Is2hi47qcZa3b)
+- [Buy on Whop](https://whop.com/wedding-planning-complete-notion-template)
+
